@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/laura/programmiersprachen-aufgabenblatt-3/source/Beispielprogramm.cpp
+cstdlib
+-
+vector
+-
+list
+-
+iostream
+-
+iterator
+-
+algorithm
+-
+

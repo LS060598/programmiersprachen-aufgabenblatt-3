@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14 -Wall   CMakeFiles/Beispielprogramm.dir/Beispielprogramm.cpp.o  -o Beispielprogramm -rdynamic 
